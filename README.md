@@ -1,7 +1,7 @@
-# @local/dsh-cc-memory
+# dsh-cc-memory
 
 DSH 的「类 Claude Code 记忆」插件。独立自足：不依赖、不 import 任何其他插件的运行时服务，也不 import `@deepseek-ai/*` 运行时包（只用 `node:*`）。
-
+感谢analysis_claude_code_项目（https://github.com/jackyrx/analysis_claude_code_）
 ## 两条通路
 
 ### A. 自写记忆层（全部自建）
