@@ -1,0 +1,3 @@
+- insert:
+    - id: cc-memory
+      name: '@local/dsh-cc-memory'
