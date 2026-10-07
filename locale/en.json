@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Claude Code Memory",
+    "description": "Auto memory (MEMORY.md index + on-demand topic files) plus the Claude Code-only gaps of the instruction layer."
+  }
+}

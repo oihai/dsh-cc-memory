@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Claude Code 记忆",
+    "description": "自动记忆（MEMORY.md 索引 + 主题文件按需读取），以及指令层里 Claude Code 独有的缺口。"
+  }
+}
