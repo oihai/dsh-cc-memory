@@ -12,7 +12,7 @@ Yuyz0112/claude-code-reverse(https://github.com/Yuyz0112/claude-code-reverse)
 
 jackyrx/analysis_claude_code(https://github.com/jackyrx/analysis_claude_code_)
 
-shareAI-lab/Kode-CLI(https://github.com/shareAI-lab/Kode-CLI/blob/main/README.zh-CN.md)
+shareAI-lab/Kode-CLI(https://github.com/shareAI-lab/Kode-CLI/)
 
 ---
 
